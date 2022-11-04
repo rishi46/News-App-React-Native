@@ -1,0 +1,131 @@
+{
+
+    "status": "ok",
+    "totalResults": 739,
+
+    "articles": [
+
+        {
+
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Netflix with ads launches on November 3rd",
+            "description": "Netflix's ad-supported tier finally has a release date. The new Basic with Ads plan will be available November 3rd from 12 PM ET for $7 per month. It launches in 12 countries: the US, UK, Australia, Brazil, Canada, France, Germany, Italy, Japan, Mexico, South…",
+            "url": "https://www.engadget.com/the-morning-after-netflix-with-ads-launches-on-november-3rd-111528581.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/48c04b60-2177-11ed-9d7f-24f47864f1ae",
+            "publishedAt": "2022-10-14T11:15:28Z",
+            "content": "Netflix's ad-supported tier finally has a release date. The new Basic with Ads plan will be available November 3rd from 12 PM ET for $7 per month. It launches in 12 countries: the US, UK, Australia, … [+3662 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Chipmaker TSMC's shares leap after quarterly profit beats estimates - Reuters.com",
+            "description": "TSMC <a href=\"https://www.reuters.com/companies/2330.TW\" target=\"_blank\">(2330.TW)</a> shares jumped more than 4% on Friday morning outperforming the broader market <a href=\"https://www.reuters.com/quote/.TWII\" target=\"_blank\">(.TWII)</a>, after the Taiwanese…",
+            "url": "https://www.reuters.com/technology/chipmaker-tsmcs-shares-leap-after-quarterly-profit-beats-estimates-2022-10-14/",
+            "urlToImage": "https://www.reuters.com/resizer/9YJ9035GeoqqL7jVCthVrgQQ9gk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6JUUHCPG2NK5RN7CJXBK26JQKU.jpg",
+            "publishedAt": "2022-10-14T01:07:00Z",
+            "content": "TAIPEI, Oct 14 (Reuters) - TSMC (2330.TW) shares jumped more than 4% on Friday morning outperforming the broader market (.TWII), after the Taiwanese chipmaker announced a forecast-beating third-quart… [+546 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Gwilym Mumford",
+            "title": "From Britbox to Shudder, the best niche streaming services",
+            "description": "Whether you’re after horror, arthouse, reality TV or teatime crime, don’t be afraid to look past the ‘big five’A couple of weeks ago, we offered up a streaming guide for these cost of living-tinged times, looking at the positives and negatives of the “big fiv…",
+            "url": "https://www.theguardian.com/culture/2022/oct/14/the-guide-best-small-streaming-services-paramount-shudder-mubi",
+            "urlToImage": "https://i.guim.co.uk/img/media/292cb9467bfaa4184efd5f92ec4d7d1638587fd5/0_28_1920_1152/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19fd6f19ecf47c0f70dc665e1ccaaf7d",
+            "publishedAt": "2022-10-14T10:55:40Z",
+            "content": "A couple of weeks ago, we offered up a streaming guide for these cost of living-tinged times, looking at the positives and negatives of the big five platforms (Amazon Prime Video, Apple TV+, Disney+,… [+9007 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rebecca Nicholson",
+            "title": "Shantaram review – Eat Pray Love with added hunk? Disappointingly not",
+            "description": "Not even Charlie Hunnam constantly taking his top off can save Apple TV+’s new thriller about an ex-convict in Bombay. And don’t get me started on the accentsShantaram (Apple TV+) is an adaptation of Gregory David Roberts’ weighty 2003 novel of self-discovery…",
+            "url": "https://www.theguardian.com/tv-and-radio/2022/oct/14/shantaram-review-eat-pray-love-with-added-hunk-disappointingly-not",
+            "urlToImage": "https://i.guim.co.uk/img/media/2ebcaa2948c05982ff8cc5a1849ef9b0677cee0f/0_541_8109_4865/master/8109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a831437a18529fbbb1ba87d38b671882",
+            "publishedAt": "2022-10-14T05:00:28Z",
+            "content": "Shantaram (Apple TV+) is an adaptation of Gregory David Roberts weighty 2003 novel of self-discovery. I admit that I was expecting a sort of Eat Pray Love, with added hunk. It turns out to be a bit o… [+3588 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Phil Harrison",
+            "title": "The Peripheral to Chapelwaite: the seven best shows to stream this week",
+            "description": "Chloë Grace Moretz stars in a dystopian drama about virtual reality getting horribly out of hand, and Adrien Brody serves up a horror with jump-scares galore Continue reading...",
+            "url": "https://www.theguardian.com/tv-and-radio/2022/oct/14/the-peripheral-to-chapelwaite-the-seven-best-shows-to-stream-this-week",
+            "urlToImage": "https://i.guim.co.uk/img/media/1fb6a3d5266bc2c44149fbdd19102a6feb700efe/0_38_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35889e7474957403aefcebb819989039",
+            "publishedAt": "2022-10-14T06:00:29Z",
+            "content": "Pick of the week\r\nThe Peripheral\r\nA starry and stylish adaptation of William Gibsons novel, this sci-fi series posits a near future in which virtual evolution has outpaced societal development. In a … [+4838 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hadley Freeman",
+            "title": "Aubrey Plaza: ‘I totally care what people think and I wish that I didn’t’",
+            "description": "The actor notorious for playing sardonic oddballs on loving Danny DeVito, keeping up with her Parks and Rec co-stars and why she’s nowhere as kooky in real lifeThe night before Aubrey Plaza and I met up, she went to the premiere of her latest film, Emily the …",
+            "url": "https://www.theguardian.com/film/2022/oct/14/aubrey-plaza-i-totally-care-what-people-think-and-i-wish-that-i-didnt",
+            "urlToImage": "https://i.guim.co.uk/img/media/3a2c95bb06bb4af410c8e2af166d964bd64093ca/0_406_2668_1600/master/2668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3b14ea24a8ca38fcd95074842196352",
+            "publishedAt": "2022-10-14T07:00:30Z",
+            "content": "The night before Aubrey Plaza and I met up, she went to the premiere of her latest film, Emily the Criminal, at the London film festival, and was surprised to see an old friend in the audience. It wa… [+11547 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Video Demonstrates Semi-Functional AirPower Prototype in Action",
+            "description": "Back in August, a video of an AirPower prototype gave us a closer look at Apple's abandoned wireless charging device, but the unit was not functional in any practical way. Now, thanks to a collaboration between YouTube channels Apple Demo and Unbox Therapy, w…",
+            "url": "https://www.macrumors.com/2022/10/14/video-of-working-airpower-prototype/",
+            "urlToImage": "https://images.macrumors.com/t/0yJe7aT4b-0r7LncWeXkcI376YY=/2486x/article-new/2022/10/working-airpower-prototype-apple-demo.jpg",
+            "publishedAt": "2022-10-14T10:46:09Z",
+            "content": "Back in August, a video of an AirPower prototype gave us a closer look at Apple's abandoned wireless charging device, but the unit was not functional in any practical way. Now, thanks to a collaborat… [+3301 chars]"
+        },
+
+        {
+
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jerb@insider.com (Jordan Parker Erb)",
+            "title": "What to expect from Netflix's new subscription with ads",
+            "description": "A cheaper Netflix subscription with ads is coming in November. We explain how much it will cost and what to expect from the service.",
+            "url": "https://www.businessinsider.com/netflix-with-ads-cost-heres-what-to-expect-2022-10",
+            "urlToImage": "https://i.insider.com/634871605bbbbe00187832b6?width=1200&format=jpeg",
+            "publishedAt": "2022-10-14T10:35:00Z",
+            "content": "Friday is officially here, and something else is almost here: Netflix with ads. \r\nAfter months of talking about it, Netflix has finally released more details about its newest subscription tier, \"Basi… [+4144 chars]"
+        }
+
+
+    ]
+
+}
