@@ -61,7 +61,8 @@ const style=StyleSheet.create({
         backgroundColor: 'rgba(0, 0, 0, 0.5)',
         justifyContent: 'center',
         alignItems:'center'
-    },textView:{
+    },
+    textView:{
         backgroundColor:'#FFFFFF',
         width: '90%',
         paddingTop: 20,

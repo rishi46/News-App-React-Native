@@ -19,7 +19,7 @@ const NewsCatagory=[
     },
 ]
 
-export default function NewsCard(){
+export default function NewsCard(props){
 const [data, setData]= useState([])
 const [showMore, setShowMore] = useState(false);
 const [loading,setLoading]= useState(false)
@@ -33,11 +33,13 @@ const [btnId,setbtnId] = useState(0)
             .then(function (response) { 
                 // console.log(showMore);
                 setData((response.data.articles));
+                
                 // console.log(response.data.articles);
             }) 
             .catch(function (error) {
                 console.log("News card error",error)
-                Alert.alert('Warning!',' Some thing went wrong')
+                Alert.alert('Warning','Some thing went wrong')
+
             })
             setLoading(false)
             // setData(response.articles)
@@ -54,12 +56,14 @@ const [btnId,setbtnId] = useState(0)
             
             .then(function (response) {
                 setData((response.data.articles));
+                
                 // console.log(response.data.articles);
             }) 
             .catch(function (error) {
                 console.log("News card error",error)
-                setLoading(false)
-                Alert.alert('Warning!',' Some thing went wrong')
+                
+                Alert.alert('Warning','Some thing went wrong')
+                setLoading(true)
             })
             setLoading(false)
         }

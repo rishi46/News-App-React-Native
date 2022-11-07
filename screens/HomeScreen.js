@@ -12,7 +12,7 @@ import Model from '../components/Model';
  export default function HomeScreen({navigation}){
  
     const [isLogOutModelVisible, setIsLogOutModelVisible] = useState(false)
-
+ 
 
     return(
 
@@ -23,13 +23,14 @@ import Model from '../components/Model';
                 <ScrollView>  
                     <IconHeader setIsLogOutModelVisible={setIsLogOutModelVisible}/>
                     <Header/>
-                    <NewsCard/>
+                    <NewsCard />
                     <Subscribe />
                     <Footer/>
                     {
                         isLogOutModelVisible &&
                         <Model setIsLogOutModelVisible={setIsLogOutModelVisible} navigation={navigation}/>
                     }
+
                 </ScrollView>  
 
             </View>
