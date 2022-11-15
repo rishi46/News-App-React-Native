@@ -13,7 +13,6 @@ import Model from '../components/Model';
  
     const [isLogOutModelVisible, setIsLogOutModelVisible] = useState(false)
  
-
     return(
 
         <SafeAreaView style={styles.sectionContainer}>

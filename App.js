@@ -13,11 +13,8 @@
    View,
  } from 'react-native';
  
-
  import Router from './routs/routs';
- import Errorhandler from './components/errorhandler';
 
- 
  const App= ()  => {
   
    return (
